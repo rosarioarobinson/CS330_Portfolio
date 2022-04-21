@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (RR_4-5_Milestone_3DScene.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(147,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(375,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(586,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(587,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(591,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(592,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(594,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(595,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(605,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+U:\repos\RR_Milestone_3DScene\RR_Milestone_3DScene\Source.cpp(920,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RR_Milestone_3DScene.vcxproj -> U:\repos\RR_Milestone_3DScene\Debug\RR_Milestone_3DScene.exe
